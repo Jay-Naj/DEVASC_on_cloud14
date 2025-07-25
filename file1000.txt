@@ -1,1 +1,2 @@
 This is my new test from the master locally
+Added from the cloud to secondB
