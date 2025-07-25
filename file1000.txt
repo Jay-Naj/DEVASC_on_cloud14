@@ -1,2 +1,3 @@
 This is my new test from the master locally
 Added from the cloud to secondB
+This is new line by secondB
